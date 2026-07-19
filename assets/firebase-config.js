@@ -5,13 +5,14 @@
    Firebase Console → Project settings → General → Your apps → SDK setup
    ========================================================================== */
 const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_PROJECT_ID.appspot.com",
-  messagingSenderId: "YOUR_SENDER_ID",
-  appId: "YOUR_APP_ID"
-};
+    apiKey: "AIzaSyBzvwSAE2l1HyE0QvtREcYJ5WOrewxRPPk",
+    authDomain: "admcbymahin.firebaseapp.com",
+    projectId: "admcbymahin",
+    storageBucket: "admcbymahin.firebasestorage.app",
+    messagingSenderId: "956994115039",
+    appId: "1:956994115039:web:e42eca33d6abbdc8bde06a",
+    measurementId: "G-4K7MP9457B"
+  };
 
 firebase.initializeApp(firebaseConfig);
 
